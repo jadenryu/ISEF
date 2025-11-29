@@ -1,4 +1,4 @@
-,Amount (mg/L),pH,Conductivity,Turbidity (NTU),Nitrate,Tds,DO (mg/L),Temperature (°C),Ammonium Ion
+Contaminant,Amount (mg/L),pH,Conductivity,Turbidity (NTU),Nitrate,Tds,DO (mg/L),Temperature (°C),Ammonium Ion
 Water,N/A,6.7,67.6,10.4,,,6.9,18.1,
 Sand,75,,,,,,,,
 Sand,375,6.83,58,25.6,,,,18.3,
